@@ -105,7 +105,7 @@ jobs:
       - build_fedora_38
       - build_focal_64
       - build_jammy_64
-      # - build_mac
+      - build_mac
       - build_mingw
       - build_source
     steps:
