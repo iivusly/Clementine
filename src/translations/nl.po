@@ -9,8 +9,8 @@
 # Issa1552 <fairfull.playing@gmail.com>, 2019
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010
 # Hendrik Maryns <hendrik@hendrikmaryns.name>, 2020,2022
-# Sparkrin <rindertvonk@gmx.net>, 2013
-# Sparkrin <rindertvonk@gmx.net>, 2011-2012
+# R Vonk, 2013
+# R Vonk, 2011-2012
 # c14f77e3fd4e273b6b231086eb2985ab, 2012
 # Senno Kaasjager <senno.kaasjager@gmail.com>, 2014
 # Senno Kaasjager <senno.kaasjager@gmail.com>, 2014-2017
@@ -1457,11 +1457,12 @@ msgstr ""
 msgid "Ignore \"The\" in artist names"
 msgstr "“The” in artiestennamen negeren"
 
-msgid "Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)"
-msgstr "Afbeeldingen (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)"
+msgid ""
+"Images (*.png *.jpg *.jpeg *.jxl *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)"
+msgstr ""
 
-msgid "Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)"
-msgstr "Afbeeldingen (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)"
+msgid "Images (*.png *.jpg *.jpeg *.jxl *.bmp *.xpm *.pbm *.ppm *.xbm)"
+msgstr ""
 
 msgid ""
 "In dynamic mode new tracks will be chosen and added to the playlist every "

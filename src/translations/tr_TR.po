@@ -3,8 +3,8 @@
 # This file is distributed under the same license as the Clementine package.
 # 
 # Translators:
-# meda <ademcal@yahoo.com>, 2017
-# meda <ademcal@yahoo.com>, 2018,2020
+# Adem Çalışkan <ademcal@yahoo.com>, 2017
+# Adem Çalışkan <ademcal@yahoo.com>, 2018,2020
 # Ahmet Sezgin Duran <marjinalist1@gmail.com>, 2013
 # Mustafa YILMAZ <apshalasha@gmail.com>, 2013
 # arnaudbienner <arnaud.bienner@gmail.com>, 2011
@@ -1481,11 +1481,12 @@ msgstr ""
 msgid "Ignore \"The\" in artist names"
 msgstr "Sanatçı isimlerinde \"The\" kelimesini önemseme"
 
-msgid "Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)"
-msgstr "Resimler (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)"
+msgid ""
+"Images (*.png *.jpg *.jpeg *.jxl *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)"
+msgstr ""
 
-msgid "Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)"
-msgstr "Resimler (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)"
+msgid "Images (*.png *.jpg *.jpeg *.jxl *.bmp *.xpm *.pbm *.ppm *.xbm)"
+msgstr ""
 
 msgid ""
 "In dynamic mode new tracks will be chosen and added to the playlist every "
